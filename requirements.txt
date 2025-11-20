@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn>=1.2
+xgboost
+joblib
+streamlit
+folium
+streamlit-folium
+plotly
+shap
